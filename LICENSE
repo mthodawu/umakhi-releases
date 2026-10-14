@@ -1,21 +1,47 @@
-MIT License
+Umakhi: Software Licence
 
-Copyright (c) 2026 mthodawu
+Copyright (c) 2026 MS. All rights reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Umakhi (the "Software") is proprietary software. The Software is provided to you
+as compiled installers only; the source code is not distributed or licensed.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. Permitted use
+   You may download, install and run the Software on computers you own or
+   control, for your own business purposes.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+2. Restrictions
+   Unless the copyright holder gives you written permission, you may not:
+   (a) copy or redistribute the Software, in whole or in part, to anyone else;
+   (b) sell, rent, lease or sublicense the Software;
+   (c) modify the Software or create derivative works from it;
+   (d) reverse engineer, decompile or disassemble the Software, except to the
+       extent the law allows this despite this restriction.
+
+3. Ownership
+   The Software is licensed, not sold. All rights not expressly granted here
+   are reserved by the copyright holder.
+
+4. Third-party components
+   The Software includes Electron, Chromium and other third-party open-source
+   components. These are covered by their own licences, listed in the files
+   LICENSE.electron.txt and LICENSES.chromium.html installed with the Software.
+   Nothing in this licence limits your rights under those licences.
+
+5. Your data
+   The Software stores its data on your own computer. The copyright holder
+   does not receive or have access to that data.
+
+6. No warranty
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+   PARTICULAR PURPOSE AND NON-INFRINGEMENT. YOU ARE RESPONSIBLE FOR KEEPING
+   BACKUPS OF YOUR DATA.
+
+7. Limitation of liability
+   TO THE FULLEST EXTENT PERMITTED BY LAW, THE COPYRIGHT HOLDER IS NOT LIABLE
+   FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM THE USE OF, OR
+   INABILITY TO USE, THE SOFTWARE.
+
+8. Termination
+   This licence ends automatically if you breach it. On termination you must
+   stop using the Software and delete all copies.
