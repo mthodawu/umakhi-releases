@@ -25,6 +25,12 @@ Not sure which Mac you have? Choose the Apple menu, then **About This Mac**. "Ch
 
 **Mac:** open the `.dmg` and drag Umakhi into **Applications**. The first time, if macOS says it cannot verify the app, right-click (or Control-click) Umakhi in Applications, choose **Open**, then **Open** again. Or go to **System Settings > Privacy & Security** and choose **Open Anyway**.
 
+If macOS says Umakhi is **damaged** and cannot be opened, the app is not damaged: this is how macOS treats downloaded apps that are not yet signed by Apple. Open **Terminal** and run the following once, then open Umakhi again:
+
+```
+xattr -cr /Applications/Umakhi.app
+```
+
 ## Updates
 
 Umakhi checks for new versions by itself. When one is ready, a notification appears under the bell icon with a **Download update** button, then **Restart to install**. Your data is kept.
